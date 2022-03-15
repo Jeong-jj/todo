@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9e9264b4.css","mappings":"AAEA,EAA0B,qBAAsB,CAA7C,QAAS,CAAE,SAAmC,CACjD,GAAI,eAAiB,CACrB,EAA0B,aAAc,CAArC,oBAAsC","sources":["index.css"],"sourcesContent":["@charset \"utf-8\";\n\n* {margin: 0; padding: 0; box-sizing: border-box;}\nul {list-style: none;}\na {text-decoration: none; color: inherit;}"],"names":[],"sourceRoot":""}
